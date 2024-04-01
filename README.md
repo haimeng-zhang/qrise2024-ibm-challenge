@@ -9,7 +9,7 @@ Dynamic circuits are an exciting feature of IBM Quantum hardware that incorporat
 ## Challenge Prompts
 1. Find an application using dynamic circuits
 *For example:prepare a large GHZ state, generate long-range entanglement, prepare a repetition code, doing quantum phase estimation.*
-2. Demonstrate the improvement of implantation using the dynamic circuit feature
+2. Demonstrate the improvement of implementation using the dynamic circuit feature
 *For example: use dynamic circuit feature to shorten circuit depth or suppress error rate in a real circuit execution*
 3. Characterize noise and errors in dynamic circuits
 *For example, study how error propagates in dynamic circuits: use a benchmark method to study
